@@ -54,7 +54,7 @@ These sites inspired the simulation and structure:
 ## 📁 Files Included
 
 - `Indian_Ocean_SST_2014_2024.xlsx` – Simulated data  
-- `SST_Indian_Ocean.pbix` – Power BI dashboard  
+- `sea surface temperature Indian Ocean.pbix` – Power BI dashboard  
 - `README.md` – Project documentation
 
 
